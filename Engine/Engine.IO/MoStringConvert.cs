@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using System.Numerics;
 using UnityEngine;
 
-namespace MotionEngine
+namespace MotionEngine.IO
 {
 	public static class MoStringConvert
 	{

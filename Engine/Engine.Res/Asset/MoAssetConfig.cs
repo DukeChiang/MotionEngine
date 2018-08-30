@@ -5,6 +5,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using MotionEngine.IO;
 
 namespace MotionEngine.Res
 {

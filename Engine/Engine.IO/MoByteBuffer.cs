@@ -9,7 +9,7 @@ using System.Diagnostics;
 using System.Numerics;
 using UnityEngine;
 
-namespace MotionEngine
+namespace MotionEngine.IO
 {
 	public class MoByteBuffer
 	{

@@ -3,6 +3,7 @@
 // Licensed under the MIT license
 //**************************************************
 using System;
+using MotionEngine.IO;
 
 namespace MotionEngine.Net
 {
